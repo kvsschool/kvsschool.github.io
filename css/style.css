@@ -1,0 +1,192 @@
+#header {
+	background: #B1FBDC;
+	width: 100%;
+}
+.marq-top {
+	margin: 5px auto;
+	height:100px;
+}
+.mar-pad{
+	height: 100px;
+    margin-top: 10px;
+    margin-bottom: 12px;
+}
+.menu-right-align{
+	margin-right: 0px !important;
+    margin-left: 0px;
+}
+.menu-mergin-bottom{
+	margin-bottom: 0px !important;
+	border-radius: 0px;
+}
+.fixed-top{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+.border-bottom{
+	border-bottom-style: solid;
+	border-bottom-color: #cccccc;
+}
+.body-bg, #body{
+	background-color: #B1FBDC !important;
+}
+.white-bg{
+	background-color: #ffffff !important;
+}
+.padding-10{
+	padding-right: 10px !important;
+    padding-left: 10px !important;
+}
+.padding-20{
+	padding-right: 20px !important;
+    padding-left: 20px !important;
+}
+.padding-zero{
+	padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+.margin-top{
+	margin-top: 20px !important;
+	margin-bottom: 20px !important;
+}
+.margin-zero{
+	margin-right: 0px !important;
+	margin-left: 0px !important;
+}
+.margin-20{
+	margin-right: 20px !important;
+	margin-left: 20px !important;
+}
+.line-height{
+	line-height: 0px !important;
+}
+.navbar-nav>li {
+  float: none;
+}
+
+@font-face {
+    font-family: 'aurellascript';
+    src: url('fonts/aurella.woff2') format('woff2'),
+         url('fonts/aurella.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gabydemo';
+    src: url('fonts/gaby_demo.woff2') format('woff2'),
+         url('fonts/gaby_demo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'emrytdemo';
+    src: url('fonts/emryt_demo.woff2') format('woff2'),
+         url('fonts/emryt_demo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'monsieurladoulaise';
+    src: url('fonts/monsieurladoulaise-regular.woff2') format('woff2'),
+         url('fonts/monsieurladoulaise-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'paradisovintagefont';
+    src: url('fonts/paradiso_vintage_demo.woff2') format('woff2'),
+         url('fonts/paradiso_vintage_demo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'natylfont';
+    src: url('fonts/natyl_demo.woff2') format('woff2'),
+         url('fonts/natyl_demo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'liberationserif-regular-webfont';
+    src: url('fonts/liberationserif-regular-webfont.woff2') format('woff2'),
+         url('fonts/liberationserif-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.title-adm-name-font1 {
+    font-family: 'monsieurladoulaise';
+	font-weight: bold;
+	font-size: large;
+}
+.title-adm-name-font2 {
+    font-family: 'paradisovintagefont';
+	font-weight: bold;
+	font-size: large;
+}
+.title-adm-name-font33 {
+    font-family: 'natylfont';
+	font-weight: bold;
+	font-size: large;
+}
+.title-adm-name-font3 {
+    font-family: 'natylfont';
+	font-weight: bold;
+	font-size: x-large;
+	text-decoration: underline;
+}
+.title-font1 {
+    font-family: 'aurellascript';
+	font-weight: bold;
+	font-size: x-large;
+	text-decoration: underline;
+}
+.title-font {
+    font-family: 'aurellascript';
+	font-weight: bold;
+	font-size: xx-large;
+}
+.title-font-content {
+    font-family: 'liberationserif-regular-webfont';
+	font-size: large;
+}
+.title-font-content1 {
+    font-family: 'aurellascript';
+	font-weight: bold;
+	font-size: medium;
+}
+.title-font-content-main {
+    font-family: 'liberationserif-regular-webfont';
+	font-weight: bold;
+	font-size: xx-large;
+	text-decoration: underline;
+}
+.title-adm-font {
+    font-family: 'emrytdemo';
+	font-weight: bold;
+	font-size: xx-large;
+}
+.title-adm-name-font {
+    font-family: 'gabydemo';
+	font-weight: bold;
+	font-size: x-large;
+	text-decoration: underline;
+}
+.title-adm-name-fontname{
+    font-family: 'liberationserif-regular-webfont';
+	font-weight: bold;
+	font-size: x-large;
+}
